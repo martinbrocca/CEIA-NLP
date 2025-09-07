@@ -3,7 +3,7 @@
 
 
 ## Especialización en Inteligencia Artificial 
-## Materia de Procesamiento Natural del Lenguaje
+## Materia de Procesamiento del Lenguaje Natural
 
 
 ### Alumno: Martin Brocca
