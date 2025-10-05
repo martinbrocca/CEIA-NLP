@@ -17,7 +17,7 @@
 [desafío 2](./desafios/desafio_2/Desafio_2.ipynb) :
     - Generación y ensayo de embeddings creados con la librería Gensim a partir de los modelos CBOW y Skipgram. Los embeddings se generaron a partir de un corpus en inglés basado en las novelas de Harry Potter. Para visualizar agrupación entre vectores se utilizó TSNE con librería Sklearn.
   
-[desafío 3](./desafios/desafio_3/Desafio_2.ipynb) :
+[desafío 3](./desafios/desafio_3/Desafio_3.ipynb) :
     - Modelo de lenguaje con tokenizacion por caracteres: Implementacion y comparacion de tres arquitecturas de redes neuronales recurrentes (SimpleRNN, LSTM y GRU) para la generación de texto a nivel de caracteres utilizando el corpus de las novelas de Harry Potter.
 
 ### Estructura del repositorio:
