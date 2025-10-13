@@ -19,6 +19,7 @@
   
 [desafío 3](./desafios/desafio_3/Desafio_3.ipynb) :
     - Modelo de lenguaje con tokenizacion por caracteres: Implementacion y comparacion de tres arquitecturas de redes neuronales recurrentes (SimpleRNN, LSTM y GRU) para la generación de texto a nivel de caracteres utilizando el corpus de las novelas de Harry Potter.
+    
 [desafío 4](./desafios/desafio_4/Desafio_4.ipynb) :
     - Implementación y comparación de arquitecturas Seq2Seq (con y sin atención) para traducción automática inglés-español. Experimentación sistemática con 4 configuraciones que explora el impacto crítico del tamaño de vocabulario, arquitectura del encoder y embeddings, alcanzando un modelo final con 66.41% de precisión y ~15 BLEU mediante encoder bidireccional y vocabulario optimizado de 5K palabras.
 
